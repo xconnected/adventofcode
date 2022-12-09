@@ -156,7 +156,7 @@ def runner(rope_length, show=False):
 # Perform tasks
 if __name__ == '__main__':
 
-    fn = r"/home/michel/pCloudDrive/devlab/dataspell/adventofcode2022/2022/day9_input.txt"
+    fn = r"../local/day09.txt"
 
     field_min_x = -10
     field_max_x = 10
