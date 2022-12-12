@@ -79,7 +79,6 @@ if __name__ == '__main__':
 
     load_area(fn)
     route = np.zeros(area.shape, dtype=int)
-
     print(area)
 
     xE,yE = find('E')
