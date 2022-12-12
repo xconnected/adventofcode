@@ -75,7 +75,7 @@ def check_and_set_around(x, y):
 
 if __name__ == '__main__':
 
-    print("This approach never finished on the large example but on all tests")
+    print("This approach never finished on the large example but on all tests.")
     fn = r"../local/day12.txt"
 
     load_area(fn)
